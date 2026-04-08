@@ -1,0 +1,10 @@
+<style>
+   h1 {
+  color: #ff69b4 !important;
+  text-align: center;
+} /* for header colour */
+  h2, h3 {
+    color: #FF0000;
+    text-align: left;
+  } /* for subheader colour and alignment */
+</style>
